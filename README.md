@@ -4,7 +4,7 @@ Meu primeiro projeto em linguagem C 🚀
 
 ## 🔧 Funcionalidades
 - Soma
-- Subração
+- Subtração
 - Multiplicação
 - Divisão
 - Tratamento de divisão por zero
