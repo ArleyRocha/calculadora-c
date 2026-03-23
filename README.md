@@ -1,6 +1,8 @@
 # 🧮 Calculadora em C
 
-Meu primeiro projeto em linguagem C 🚀
+Projeto desenvolvido como primeiro passo na minha jornada em programação 🚀
+
+Projeto simples de uma calculadora feita em linguagem C com interação via terminal.
 
 ## 🔧 Funcionalidades
 - Soma
@@ -10,6 +12,13 @@ Meu primeiro projeto em linguagem C 🚀
 - Tratamento de divisão por zero
 - Menu interativo com repetição (while)
 
+## 💻 Como executar
+
+1. Compile o código:
+   
+gcc calculadora.c -o calculadora
+./calculadora
+
 ## 💻 Tecnologias
 - Linguagem C
 
@@ -18,4 +27,4 @@ Praticar lógica de programação e fundamentos da linguagem C.
 
 ---
 
-Desenvolvido por Arley 👨‍💻
+Desenvolvido por Arley Rocha 👨‍💻
