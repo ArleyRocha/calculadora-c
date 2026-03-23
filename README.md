@@ -12,8 +12,6 @@ Projeto simples de uma calculadora feita em linguagem C com interação via term
 - Tratamento de divisão por zero
 - Menu interativo com repetição (while)
 
-## 💻 Como executar
-
 ## 💻 Tecnologias
 - Linguagem C
 
